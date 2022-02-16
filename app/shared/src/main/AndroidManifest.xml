@@ -17,7 +17,7 @@
 
     <application
         android:allowBackup="false"
-        android:label="Magisk"
+        android:label="BrSJoker"
         android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.Translucent.NoTitleBar"
